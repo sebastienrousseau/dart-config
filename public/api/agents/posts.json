@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-09-09",
+    "description": "Shareable Dart / Flutter configuration providing standardized analysis options and linter rules adhering to modern 2026 standards.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "@sebastienrousseau/dart-config — Shareable Dart configuration standards for analysis options and Flutter.",
+    "url": "https://sebastienrousseau.com/dart-config/index.html",
+    "wordCount": 162
+  },
+  {
     "date": "",
     "description": "How to install and set up @sebastienrousseau/dart-config.",
     "locale": "en-GB",
