@@ -1,0 +1,18 @@
+{
+  "api": {
+    "is_user_authenticated": false,
+    "type": "openapi",
+    "url": "https://sebastienrousseau.com/dart-config/openapi.yaml"
+  },
+  "auth": {
+    "type": "none"
+  },
+  "contact_email": "support@sebastienrousseau.com",
+  "description_for_human": "Shareable Dart / Flutter configuration providing standardized analysis options and linter rules adhering to modern 2026 standards.",
+  "description_for_model": "Shareable Dart / Flutter configuration providing standardized analysis options and linter rules adhering to modern 2026 standards.",
+  "legal_info_url": "https://sebastienrousseau.com/dart-config/legal",
+  "logo_url": "https://sebastienrousseau.com/dart-config/favicon.ico",
+  "name_for_human": "@sebastienrousseau/dart-config — Shareable Dart / Flutter configuration providing standardized analysis options and linter rules adhering to modern 2026 standards.",
+  "name_for_model": "dart_config",
+  "schema_version": "v1"
+}

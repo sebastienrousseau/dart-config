@@ -1,0 +1,5 @@
+# dart-config
+
+> Shareable Dart / Flutter configuration providing standardized analysis options and linter rules adhering to modern 2026 standards.
+
+Language: en-GB
