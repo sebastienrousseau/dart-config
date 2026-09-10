@@ -5,6 +5,7 @@ Comprehensive schema, property definitions, and exported options reference for `
 ---
 
 ## Description
+
 Shareable Dart and Flutter configuration standards providing strict analysis_options.yaml linter presets.
 
 ---
@@ -22,6 +23,7 @@ Shareable Dart and Flutter configuration standards providing strict analysis_opt
 ## Feature & Property Reference
 
 ### 1. analysis_options.yaml
+
 - **Description**: Hardened linter rules enforcing strict casts, inference, avoid_empty_else, and prefer_const_constructors.
 - **Scope**: Production & Development
 - **Status**: Stable & Active

@@ -18,4 +18,5 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. analysis_options.yaml
+
 Hardened linter rules enforcing strict casts, inference, avoid_empty_else, and prefer_const_constructors. Designed to guarantee deterministic behavior across all development and continuous integration environments.
