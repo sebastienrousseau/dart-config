@@ -6,7 +6,7 @@
 class DartConfig < Formula
   desc "Shareable Dart / Flutter configuration providing standardized analysis options and linter rules adhering to modern 2026 standards"
   homepage "https://github.com/sebastienrousseau/dart-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/dart-config/-/dart-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/dart-config/-/dart-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
